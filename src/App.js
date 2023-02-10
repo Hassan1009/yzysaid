@@ -28,7 +28,7 @@ function App() {
 
         <a href="https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x">
           <img
-            src="https://o.remove.bg/downloads/44d9cacd-6b6c-4f00-9120-45e4cf817af6/84267863ee3149a49f0985b470ddd892-removebg-preview.png"
+            src="https://i.pinimg.com/236x/d6/c1/6e/d6c16eba007d82a6a358be9a62b73933.jpg"
             alt="Spotify Icon"
             height="30"
             width="30"
@@ -37,13 +37,15 @@ function App() {
       </nav>
       <div className="flex flex-col items-center justify-between">
         <div className="flex">
-          <p className=" font-kindergarten flex text-black pt-20 font-semibold text-2xl">" {quote} "</p>
+          <p className=" font-kindergarten flex text-black pt-20 font-semibold text-2xl">
+            " {quote} "
+          </p>
         </div>
 
         <div className="flex pt-24 pr-5 flex-col justify-items-end">
           <div>
             <img
-              src="https://o.remove.bg/downloads/79e4d2bc-bd99-4ae7-aa6f-400f23b16f86/839f2a4f6e4cfd4b7bdf8b069e5d8812-removebg-preview.png"
+              src="https://i.pinimg.com/236x/9e/5e/6c/9e5e6ce02702e8e60f50fc0b3e7c62f0.jpg"
               alt="#"
             />
           </div>
